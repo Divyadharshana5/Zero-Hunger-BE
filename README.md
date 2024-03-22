@@ -21,15 +21,19 @@ Follow these steps to set up your development environment:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Divyadharshana5/Zero-Hunger-BE
+```
 
 2. Change the directory:
 ```bash
 cd Zero-Hunger-BE
+```
 
  3. Install the packages:
 ```bash
  npm i
+```
 
 4. Run the program:
 ```bash
  npm run dev
+```
